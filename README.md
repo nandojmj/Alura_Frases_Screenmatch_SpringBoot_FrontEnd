@@ -1,4 +1,5 @@
-![BG_ZOOM_ONE_ESP_(1) 1](https://github.com/nandojmj/Alura_Challenge_API_REST_Foro_hub/assets/156966097/156160d0-e44d-48a5-bb3e-214732caacf1)
+
+![BG_ZOOM_ONE_ESP_(1) 1](https://github.com/nandojmj/Alura_Frases_Screenmatch_SpringBoot_FrontEnd/assets/156966097/a6fbfe2b-23cc-49ab-8e62-189b2dbdd957)
 
 ## Alura_Frases_Screenmatch_SpringBoot
 ONE | Fase 3 - Especialización Back-End G6 - Alura - Oracle Next Education. 
